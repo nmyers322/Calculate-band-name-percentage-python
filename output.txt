@@ -1,0 +1,203 @@
+1. Death – 1184 entries
+....  1.2392 % frequency
+2. Black – 1157 entries
+....  1.2109 % frequency
+3. Dark – 1094 entries
+....  1.1450 % frequency
+4. Blood – 924 entries
+....  0.9671 % frequency
+5. Dead – 741 entries
+....  0.7755 % frequency
+6. Hell – 704 entries
+....  0.7368 % frequency
+7. War – 731 entries
+....  0.7651 % frequency
+8. Necro – 632 entries
+....  0.6615 % frequency
+9. Soul – 538 entries
+....  0.5631 % frequency
+10. Night – 520 entries
+....  0.5442 % frequency
+11. Fall – 503 entries
+....  0.5264 % frequency
+12. Hate – 470 entries
+....  0.4919 % frequency
+13. God – 455 entries
+....  0.4762 % frequency
+14. Evil – 449 entries
+....  0.4699 % frequency
+15. Kill – 415 entries
+....  0.4343 % frequency
+16. Fire – 392 entries
+....  0.4103 % frequency
+17. Storm – 389 entries
+....  0.4071 % frequency
+18. Rain – 388 entries
+....  0.4061 % frequency
+19. Lord – 385 entries
+....  0.4029 % frequency
+20. Head – 383 entries
+....  0.4008 % frequency
+21. Metal – 359 entries
+....  0.3757 % frequency
+22. Human – 347 entries
+....  0.3632 % frequency
+23. Light – 345 entries
+....  0.3611 % frequency
+24. Moon – 329 entries
+....  0.3443 % frequency
+25. Winter – 322 entries
+....  0.3370 % frequency
+26. Shadow – 304 entries
+....  0.3182 % frequency
+27. Demon – 300 entries
+....  0.3140 % frequency
+28. Satan – 298 entries
+....  0.3119 % frequency
+29. Pain – 297 entries
+....  0.3108 % frequency
+30. Eternal – 285 entries
+....  0.2983 % frequency
+31. Dream – 284 entries
+....  0.2972 % frequency
+32. Burn – 273 entries
+....  0.2857 % frequency
+33. Witch – 271 entries
+....  0.2836 % frequency
+34. Chaos – 266 entries
+....  0.2784 % frequency
+35. Flesh – 265 entries
+....  0.2774 % frequency
+36. Cult – 264 entries
+....  0.2763 % frequency
+37. Goat – 261 entries
+....  0.2732 % frequency
+38. Rage – 259 entries
+....  0.2711 % frequency
+39. Terror – 252 entries
+....  0.2637 % frequency
+40. Force – 249 entries
+....  0.2606 % frequency
+41. Fear – 249 entries
+....  0.2606 % frequency
+42. Throne – 245 entries
+....  0.2564 % frequency
+43. Wolf – 241 entries
+....  0.2522 % frequency
+44. Stone – 240 entries
+....  0.2512 % frequency
+45. Christ – 236 entries
+....  0.2470 % frequency
+46. Steel – 232 entries
+....  0.2428 % frequency
+47. Rot – 231 entries
+....  0.2418 % frequency
+48. Funeral – 230 entries
+....  0.2407 % frequency
+49. Torment – 222 entries
+....  0.2323 % frequency
+50. Ritual – 216 entries
+....  0.2261 % frequency
+51. Cross – 214 entries
+....  0.2240 % frequency
+52. Gate – 213 entries
+....  0.2229 % frequency
+53. Frost – 208 entries
+....  0.2177 % frequency
+54. Gore – 202 entries
+....  0.2114 % frequency
+55. Doom – 199 entries
+....  0.2083 % frequency
+56. Corpse – 198 entries
+....  0.2072 % frequency
+57. Beyond – 194 entries
+....  0.2030 % frequency
+58. Crypt – 189 entries
+....  0.1978 % frequency
+59. Infernal – 189 entries
+....  0.1978 % frequency
+60. Wind – 189 entries
+....  0.1978 % frequency
+61. Brain – 185 entries
+....  0.1936 % frequency
+62. Lost – 178 entries
+....  0.1863 % frequency
+63. Grim – 175 entries
+....  0.1832 % frequency
+64. Ash – 175 entries
+....  0.1832 % frequency
+65. Iron – 169 entries
+....  0.1769 % frequency
+66. Face – 167 entries
+....  0.1748 % frequency
+67. Raven – 166 entries
+....  0.1737 % frequency
+68. Spirit – 165 entries
+....  0.1727 % frequency
+69. Morbid – 164 entries
+....  0.1716 % frequency
+70. Forest – 155 entries
+....  0.1622 % frequency
+71. Sick – 154 entries
+....  0.1612 % frequency
+72. Cold – 147 entries
+....  0.1539 % frequency
+73. Skull – 147 entries
+....  0.1539 % frequency
+74. Anger – 147 entries
+....  0.1539 % frequency
+75. Fuck – 146 entries
+....  0.1528 % frequency
+76. Fallen – 145 entries
+....  0.1518 % frequency
+77. Grind – 144 entries
+....  0.1507 % frequency
+78. Devil – 140 entries
+....  0.1465 % frequency
+79. Ruin – 140 entries
+....  0.1465 % frequency
+80. Thrash – 137 entries
+....  0.1434 % frequency
+81. Suffer – 135 entries
+....  0.1413 % frequency
+82. Murder – 133 entries
+....  0.1392 % frequency
+83. Divine – 133 entries
+....  0.1392 % frequency
+84. Slaughter – 133 entries
+....  0.1392 % frequency
+85. Brutal – 132 entries
+....  0.1382 % frequency
+86. Child – 126 entries
+....  0.1319 % frequency
+87. Nocturnal – 124 entries
+....  0.1298 % frequency
+88. Sorrow – 124 entries
+....  0.1298 % frequency
+89. Psycho – 123 entries
+....  0.1287 % frequency
+90. Torture – 122 entries
+....  0.1277 % frequency
+91. Torment – 222 entries
+....  0.2323 % frequency
+92. Wrath – 121 entries
+....  0.1266 % frequency
+93. Serpent – 119 entries
+....  0.1245 % frequency
+94. Agony – 118 entries
+....  0.1235 % frequency
+95. Slave – 116 entries
+....  0.1214 % frequency
+96. Heaven – 113 entries
+....  0.1183 % frequency
+97. Circle – 112 entries
+....  0.1172 % frequency
+98. Grace – 111 entries
+....  0.1162 % frequency
+99. Noise – 111 entries
+....  0.1162 % frequency
+100. Ancient – 108 entries
+....  0.1130 % frequency
+100. Dragon – 108 entries
+....  0.1130 % frequency
+100. Hand – 108 entries ....  0.1130 % frequency
